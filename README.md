@@ -11,6 +11,7 @@
 ![Static Badge](https://img.shields.io/badge/Bootstrap-purple?logo=Bootstrap)
 ![Static Badge](https://img.shields.io/badge/SASS-pink?logo=SASS)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/TypeScript-%232F74C0?logo=TypeScript&logoColor=%2389B3F8)
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=React)
 ![Static Badge](https://img.shields.io/badge/Redux-blue?logo=Redux)
  
